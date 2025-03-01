@@ -1,8 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Getting Started
 
-## Getting Started
+Follow these steps to set up and run the project locally:
 
-First, clone the repository and install the packages with the help of npm install then run the development server:
+## Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+## Running the Development Server
+
+Start the development server with the following command:
 
 ```bash
 npm run dev
@@ -10,4 +27,13 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Once the server is running, open your browser and go to:
+
+👉 [http://localhost:3000](http://localhost:3000)
+
+## Live Demo
+
+You can check out the deployed application here:
+
+🔗 [Pokemon Explorer (Live)](https://pokemon-explorer-sage.vercel.app/)
+
